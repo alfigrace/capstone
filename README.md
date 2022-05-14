@@ -1,2 +1,2 @@
 # paranmo
-C22-PS020
+C22-PS020 - Capstone Project (Paranmo)
