@@ -11,11 +11,19 @@ This repository is managed by the Machine Learning members:
 ## The Process
 In developing this application, there are some processes that we had done:
 
-- import libraries needed
-- mounting google drive
-- checking amount of data in each label
-- load the dataset and split it into train, validation and test dataset with 8:1:1 ratio
-- display some image examples from dataset
+- Import libraries needed
+- Download the dataset from kaggle and we modify a little bit
+- Mount the dataset from google drive
+- Load data using DataLoader and split dataset to train, test, and validation dataset 
+- Display some image examples from dataset
+- Adding augmentation
+- Create Transfer Learning Model (MobileNetV2) and Train the model with 32 batch size
+- Evaluate the first model  use the test dataset and image prediction
+- Adding some augmentation and retrain the model with 16 batch size
+- Evaluate second model use the test dataset and image prediction
+- Post training quantization to reduce model size and inference latency
+- Convert to Tensorflow Lite format so the Machine Learning model can be deployed in Android App
+
 Testing
 User Research
 
