@@ -24,7 +24,7 @@ In developing this application, there are some processes that we had done:
 - Post training quantization to reduce model size and inference latency
 - Convert to Tensorflow Lite format so the Machine Learning model can be deployed in Android App
 
-Link: [Machine Learning Model](https://github.com/alfigrace/capstone/blob/machine-learning/BestModelParanmo.ipynb)
-Link Dataset:
-[Dataset](https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal)
-[Dataset](https://drive.google.com/drive/folders/1sKbjP0QpJkjEVmW8y695nc3_nrZ-YF44)
+### Link: [Machine Learning Model](https://github.com/alfigrace/capstone/blob/machine-learning/BestModelParanmo.ipynb)
+### Link Dataset:
+- [Dataset](https://www.kaggle.com/datasets/anefiamutiaraatha/dataset-tanaman-herbal)
+- [Dataset](https://drive.google.com/drive/folders/1sKbjP0QpJkjEVmW8y695nc3_nrZ-YF44)
