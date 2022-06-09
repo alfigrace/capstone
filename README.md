@@ -24,9 +24,4 @@ In developing this application, there are some processes that we had done:
 - Post training quantization to reduce model size and inference latency
 - Convert to Tensorflow Lite format so the Machine Learning model can be deployed in Android App
 
-Testing
-User Research
-
-The user research was done by all of the team members. We did the research by asking some people and evaluating some comments on the existing similiar applications. Then we gained some user's pain points. The pain points were crucial part to know what must be done for the better development. We also made a competitive research.
-
 Link: [Machine Learning Model](https://github.com/alfigrace/capstone/blob/machine-learning/BestModelParanmo.ipynb)
