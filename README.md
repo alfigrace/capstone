@@ -8,7 +8,7 @@ This repository is managed by the Machine Learning members:
 (MD) A2304G2604 - Givar Elva Rizky Hana'An
 (MD) A2006F0498 - Alsy Taqiya Herasafitri
 
-# The Process
+## The Process
 In developing this application, there are some processes that we had done:
 
 User Research
