@@ -11,11 +11,11 @@ This repository is managed by the Machine Learning members:
 ## The Process
 In developing this application, there are some processes that we had done:
 
-User Research
-Design Thinking
-UI Design and Prototyping
-Usability Testing
-Developing and Integrating
+import libraries needed
+mounting google drive
+checking amount of data in each label
+load the dataset and split it into train, validation and test dataset with 8:1:1 ratio
+display some image examples from dataset
 Testing
 User Research
 
