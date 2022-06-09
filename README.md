@@ -5,8 +5,8 @@ See the link of C22-PS020: Team Repository
 
 This repository is managed by the Machine Learning members:
 
--(MD) A2304G2604 - Givar Elva Rizky Hana'An
--(MD) A2006F0498 - Alsy Taqiya Herasafitri
+- M7414F2984 Alfi Nazilah
+- M2227F2098 Vita Nurhayati
 
 ## The Process
 In developing this application, there are some processes that we had done:
